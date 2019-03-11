@@ -4,7 +4,7 @@
 
 	<groupId>log</groupId>
 	<artifactId>log</artifactId>
-	<version>0.1.1-SNAPSHOT</version>
+	<version>0.1.1</version>
 	<packaging>jar</packaging>
 
 	<name>log</name>
@@ -21,7 +21,7 @@
 		<connection>scm:git:/Users/tiagoteixeira/Downloads/log/.git</connection>
 		<url>http://github.com/user/project</url>
 		<developerConnection>scm:git:/Users/tiagoteixeira/Downloads/log/.git</developerConnection>
-		<tag>log-0.1.0-SNAPSHOT</tag>
+		<tag>log-0.1.1</tag>
 	</scm>
 
 	<properties>
